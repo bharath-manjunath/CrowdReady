@@ -15,13 +15,13 @@
     
     
 ## *Functionalities*
-### Admin:
+### *Admin*:
 *	Can add stadiums.
 *	Can schedule matches.
 *	Can view booked tickets.
 *	Can delete stadium / re-schedule matches.
 *	Can allocate and deallocate seats.
-### Users:
+### *Users*:
 *	Can see all sport events and stadiums available for Booking.
 *	Can reserve seats for a particular sport event.
 *	Can un-reserve the seats.
