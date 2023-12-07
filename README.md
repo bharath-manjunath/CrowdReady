@@ -28,10 +28,10 @@
 
 
 ## Run Locally
-*	Clone the repository in your desired directory using [URL](https://github.com/bharath-manjunath/Stadium_Seat_Booking_Management_System.git/).
+*	Clone the repository in your desired directory using [URL](https://github.com/bharath-manjunath/C.git/).
 
 Commands
-$ git clone https://github.com/bharath-manjunath/Stadium_Seat_Booking_Management_System.git/
+$ git clone https://github.com/bharath-manjunath/CrowdReady.git/
 
 *	Start Apache and MySQL apps in the XAMPP server.
 *	Start browsing the website created and book seats along with the use of phpMyAdmin.
